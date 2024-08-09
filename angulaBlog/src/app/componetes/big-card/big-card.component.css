@@ -15,7 +15,16 @@
 .big-card-title > h1{
     font-size: 20px;
 }
+.big-card-description{
+    margin-top: 20px;
+}
 
 .big-card-description > p {
     color: grey;
+}
+
+.big-card-foto >img{
+    width: 100%;
+    min-width: 400px;
+
 }
